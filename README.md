@@ -1,5 +1,4 @@
  Hi there, I'm Zakarya Akdim 👋 
- <div></div>
  [![zakdim's 42 stats](https://badge.mediaplus.ma/kettlebells/zakdim)](https://github.com/Z-Akdim)
 <div align="center">
 <p>
