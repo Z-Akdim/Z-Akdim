@@ -4,7 +4,7 @@
 
 ### :link: Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Achraf_Bettachi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-bettachi-164593218/)
+[![Linkedin Badge](https://img.shields.io/badge/-Zakarya_Akdim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakarya-akdim-52468b21a/)
 <br />
 ## 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
