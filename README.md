@@ -1,6 +1,6 @@
 ### Hi there, I'm Zakarya 👋
 <br />
-<a href="https://github.com/abettach"><img src="https://badge.mediaplus.ma/darkblue/zakdim" alt="zakdim's 42 stats" /></a>
+<a href="https://github.com/Z-Akdim"><img src="https://badge.mediaplus.ma/darkblue/zakdim" alt="zakdim's 42 stats" /></a>
 
 ### :link: Connect with me:
 
