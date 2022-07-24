@@ -38,13 +38,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/react-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/next-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
