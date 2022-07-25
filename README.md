@@ -11,7 +11,7 @@
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft)                    | ✅     |   | 11  | [CPP Module 01](../../../CPP) | ✅     |   | 22  | [webserv](../../../webserv)    | ✅      |
 | 2   | Born2beroot        | 🔒     |   | 12  | [CPP Module 02](../../../CPP) | ✅     |   | 23  | Inception                      | 🔒      |
-| 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 13  | [CPP Module 03](../../../CPP) | ✅     |   | 24  | [ft_transcendence](../../../ft_transandance)               | ✅      |
+| 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 13  | [CPP Module 03](../../../CPP) | ✅     |   | 24  | [ft_transcendence](../../../ft_transcendence)               | ✅      |
 | 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 14  | [CPP Module 04](../../../CPP) | ✅     |   |     |                                |         |
 | 5   | so_long                | 🔒     |   | 15  | [CPP Module 05](../../../CPP) | ✅     |   |     |                                |         |
 | 5   | minitalk             | 🔒     |   | 16  | [CPP Module 06](../../../CPP) | ✅     |   |     |                                |         |
