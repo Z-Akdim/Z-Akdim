@@ -6,21 +6,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Zakarya_Akdim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakarya-akdim-52468b21a/)
 <br />
-## 📚 42 Curriculum Progress
-| No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
-| :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](../../../libft)                    | ✅     |   | 11  | [CPP Module 01](../../../CPP) | ✅     |   | 22  | [webserv](../../../webserv)    | ✅      |
-| 2   | Born2beroot        | 🔒     |   | 12  | [CPP Module 02](../../../CPP) | ✅     |   | 23  | Inception                      | 🔒      |
-| 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 13  | [CPP Module 03](../../../CPP) | ✅     |   | 24  | [ft_transcendence](../../../ft_transcendence)               | ✅      |
-| 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 14  | [CPP Module 04](../../../CPP) | ✅     |   |     |                                |         |
-| 5   | so_long                | 🔒     |   | 15  | [CPP Module 05](../../../CPP) | ✅     |   |     |                                |         |
-| 5   | minitalk             | 🔒     |   | 16  | [CPP Module 06](../../../CPP) | ✅     |   |     |                                |         |
-| 6   | [push_swap](../../../push_swap)            | ✅     |   | 17  | [CPP Module 07](../../../CPP) | ✅     |   |     |                                |         |
-| 7   | [minishell](../../../minishell)            | ✅     |   | 18  | [CPP Module 08](../../../CPP) | ✅     |   |     |                                |         |
-| 8   | [philosophers](../../../philosophers)      | ✅     |   | 19  | [NetPractice](../../../NetPractice)| ✅|   |     |                                |         |
-| 9   | [cub3d](../../../Cub3d)                    | ✅     |   | 20  | [ft_containers](../../../ft_containers) | ✅     |   |     |                                |         |
-| 10  | [CPP Module 00](../../../CPP)              | ✅     |   | 21  | ft_irc        | 🔒     |   |     |                                |         |
-<br />
 
 ## 📊 My Stats :
 
