@@ -7,14 +7,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Zakarya_Akdim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakarya-akdim-52468b21a/)
 <br />
 
-## 📊 My Stats :
-
-[![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-Akdim&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/Z-Akdim)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Z-Akdim&theme=dark&background=000000)](https://github.com/Z-Akdim)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Akdim&layout=compact&theme=dark)](https://github.com/Z-Akdim)  
-<br />
 
 ## :hammer_and_wrench: Languages and Tools :
 
