@@ -29,6 +29,3 @@
 <div>
 <br />
 
-### :link: Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Zakarya_Akdim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakarya-akdim-52468b21a/)
