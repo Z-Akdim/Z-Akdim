@@ -4,7 +4,7 @@
 
 ### :link: Connect with me:
 
-[![Linkedin Badge](https://www.linkedin.com/in/zakarya-akdim-%F0%9F%87%B5%F0%9F%87%B8-52468b21a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Zakarya_Akdim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakarya-akdim-%F0%9F%87%B5%F0%9F%87%B8-52468b21a/)
 <br />
 
 
