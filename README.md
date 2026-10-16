@@ -7,7 +7,7 @@
 Based in Casablanca, Morocco 🇲🇦  
 Building responsive web applications and mobile experiences with JavaScript and TypeScript.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/zakarya-akdim-%F0%9F%87%B5%F0%9F%87%B8-52468b21a/)
+[![LinkedIn](https://www.linkedin.com/in/zakarya-akdim-52468b21a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Z--Akdim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Z-Akdim)
 
 </div>
